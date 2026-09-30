@@ -1,0 +1,757 @@
+{
+  "generatedAt": "2026-09-30T20:47:20.721Z",
+  "deploymentAt": "2026-09-30T20:12:20.721Z",
+  "logs": [
+    {
+      "_time": "2026-09-30T19:47:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:48:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:49:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:50:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:51:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:52:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:53:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:54:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:55:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:56:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:57:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:58:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T19:59:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:00:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:01:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:02:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:03:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:04:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:05:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:06:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:07:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:08:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:09:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:10:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:11:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-baseline",
+      "requests": 1000,
+      "errors": 2,
+      "errorRate": 0.002,
+      "message": "Synthetic checkout completed",
+      "durationMs": 180
+    },
+    {
+      "_time": "2026-09-30T20:12:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:13:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:14:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:15:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:16:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:17:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:18:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:19:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:20:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:21:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:22:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:23:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:24:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:25:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:26:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:27:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:28:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:29:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:30:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:31:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:32:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:33:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:34:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:35:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:36:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:37:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:38:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:39:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:40:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:41:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:42:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:43:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:44:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:45:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    },
+    {
+      "_time": "2026-09-30T20:46:20.721Z",
+      "synthetic": true,
+      "service": "checkout-api",
+      "deployment": "synthetic-timeout-change",
+      "requests": 1000,
+      "errors": 80,
+      "errorRate": 0.08,
+      "message": "Synthetic checkout timed out after 250ms waiting for payments-worker",
+      "durationMs": 250
+    }
+  ],
+  "topology": {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "checkout-api",
+        "label": "checkout-api",
+        "kind": "service",
+        "type": "cf.workers.script",
+        "telemetry": "logs",
+        "sourceRefs": [
+          "src/checkout.ts"
+        ],
+        "detail": "Synthetic reviewer fixture. Calls payments-worker with a 250ms timeout."
+      },
+      {
+        "id": "payments-worker",
+        "label": "payments-worker",
+        "kind": "service",
+        "type": "cf.workers.script",
+        "telemetry": "logs",
+        "sourceRefs": [
+          "src/payments.ts"
+        ],
+        "detail": "Synthetic reviewer fixture. Database work takes 400ms in the scenario."
+      },
+      {
+        "id": "postgres-primary",
+        "label": "postgres-primary",
+        "kind": "store",
+        "type": "aws.rds.instance",
+        "telemetry": "none",
+        "sourceRefs": [
+          "schema.sql"
+        ],
+        "detail": "Synthetic PostgreSQL dependency; no customer database or credentials."
+      }
+    ],
+    "edges": [
+      {
+        "from": "checkout-api",
+        "to": "payments-worker",
+        "kind": "calls"
+      },
+      {
+        "from": "payments-worker",
+        "to": "postgres-primary",
+        "kind": "reads"
+      }
+    ],
+    "findings": [
+      {
+        "id": "checkout-timeout",
+        "title": "Synthetic checkout timeout after deployment",
+        "severity": "high",
+        "category": "resilience",
+        "nodeIds": [
+          "checkout-api"
+        ],
+        "detail": "Synthetic scenario: the checkout timeout decreased from 1000ms to 250ms while payment work takes 400ms. Error rate rises from 0.2% to 8%. Correlation is fixture evidence, not proof about real production.",
+        "evidence": [
+          {
+            "type": "code",
+            "ref": "src/checkout.ts",
+            "note": "The timeout is 250ms."
+          },
+          {
+            "type": "history",
+            "measure": "Synthetic deployment time",
+            "observed": "2026-09-30T20:12:20.721Z"
+          },
+          {
+            "type": "telemetry",
+            "provider": "synthetic-fixture",
+            "measure": "checkout-api error rate",
+            "observed": "0.2% before deployment; 8% after"
+          }
+        ]
+      }
+    ]
+  },
+  "investigation": {
+    "confirmed": "The checkout timeout is shorter than the synthetic payment latency.",
+    "refuted": "Database unavailability: the synthetic payment path completes successfully after 400ms.",
+    "open": "Verify the timeout change against the recorded deployment and error window."
+  },
+  "files": {
+    "src/checkout.ts": "export const CHECKOUT_TIMEOUT_MS = 250;\nexport async function checkout(payments: () => Promise<unknown>) {\n  return Promise.race([payments(), new Promise((_, reject) => setTimeout(() => reject(new DOMException(\"Synthetic checkout timeout\", \"TimeoutError\")), CHECKOUT_TIMEOUT_MS))]);\n}\n",
+    "src/payments.ts": "export async function payments() {\n  await new Promise(resolve => setTimeout(resolve, 400));\n  return { synthetic: true, database: \"postgres-primary\" };\n}\n",
+    "schema.sql": "CREATE TABLE synthetic_orders (id TEXT PRIMARY KEY, amount_cents INTEGER);\n",
+    "README.md": "# Synthetic checkout fixture\n\nNo production traffic, credentials, or customer data. checkout-api calls payments-worker, which reads postgres-primary. The fixture changes checkout timeout from 1000ms to 250ms while payment work takes 400ms. Telemetry is generated evidence, not a live deployment.\n"
+  }
+}
